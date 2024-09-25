@@ -1,0 +1,362 @@
+[
+	{
+		"oasz": 54327,
+		"het": "A",
+		"nap": "H",
+		"ora": 0,
+		"targy": "adatbázis kezelés",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54328,
+		"het": "A",
+		"nap": "H",
+		"ora": 1,
+		"targy": "adatbázis kezelés",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54329,
+		"het": "A",
+		"nap": "H",
+		"ora": 2,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54330,
+		"het": "A",
+		"nap": "H",
+		"ora": 3,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54331,
+		"het": "A",
+		"nap": "H",
+		"ora": 4,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54332,
+		"het": "A",
+		"nap": "H",
+		"ora": 5,
+		"targy": "szakmai angol",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54333,
+		"het": "A",
+		"nap": "H",
+		"ora": 6,
+		"targy": "szakmai angol",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54334,
+		"het": "A",
+		"nap": "K",
+		"ora": 0,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54335,
+		"het": "A",
+		"nap": "K",
+		"ora": 1,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54336,
+		"het": "A",
+		"nap": "K",
+		"ora": 2,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54337,
+		"het": "A",
+		"nap": "K",
+		"ora": 3,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54338,
+		"het": "A",
+		"nap": "K",
+		"ora": 4,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54339,
+		"het": "A",
+		"nap": "K",
+		"ora": 5,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54340,
+		"het": "A",
+		"nap": "K",
+		"ora": 6,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54341,
+		"het": "A",
+		"nap": "K",
+		"ora": 7,
+		"targy": "IKT projektmunka",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54342,
+		"het": "A",
+		"nap": "S",
+		"ora": 0,
+		"targy": "backend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54343,
+		"het": "A",
+		"nap": "S",
+		"ora": 1,
+		"targy": "backend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54344,
+		"het": "A",
+		"nap": "S",
+		"ora": 2,
+		"targy": "backend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54345,
+		"het": "A",
+		"nap": "S",
+		"ora": 3,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54346,
+		"het": "A",
+		"nap": "S",
+		"ora": 4,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54347,
+		"het": "A",
+		"nap": "S",
+		"ora": 5,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54348,
+		"het": "A",
+		"nap": "S",
+		"ora": 6,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54349,
+		"het": "A",
+		"nap": "S",
+		"ora": 7,
+		"targy": "hittan",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54350,
+		"het": "A",
+		"nap": "S",
+		"ora": 8,
+		"targy": "hittan",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54351,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 0,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54352,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 1,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54353,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 2,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54354,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 3,
+		"targy": "asztali alkalmazások kezelése",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54355,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 4,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54356,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 5,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54357,
+		"het": "A",
+		"nap": "Cs",
+		"ora": 6,
+		"targy": "frontend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54358,
+		"het": "A",
+		"nap": "P",
+		"ora": 0,
+		"targy": "munkavállalói idegen nyelv",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54359,
+		"het": "A",
+		"nap": "P",
+		"ora": 1,
+		"targy": "munkavállalói idegen nyelv",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54360,
+		"het": "A",
+		"nap": "P",
+		"ora": 2,
+		"targy": "backend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54361,
+		"het": "A",
+		"nap": "P",
+		"ora": 3,
+		"targy": "backend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	},
+	{
+		"oasz": 54362,
+		"het": "A",
+		"nap": "P",
+		"ora": 4,
+		"targy": "backend programozás",
+		"osztaly": "14/Szft",
+
+		"terem": "L18"
+	}
+]
